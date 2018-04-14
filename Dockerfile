@@ -1,5 +1,5 @@
 FROM eclipse-mosquitto 
 
-EXPOSE 8883/tcp
+EXPOSE 1883/tcp
 
 
